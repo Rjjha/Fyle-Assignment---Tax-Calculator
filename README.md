@@ -68,7 +68,7 @@ To use the tax calculator:
 
 **Case 5: Display error icons when all number fields are filled, but the age group is not selected. Error message states "This input field is mandatory."**
 
-<img src="https://github.com/Rjjha/Fyle-Assignment---Tax-Calculator/issues/1#issuecomment-2055743996" alt="Case 5" width="500"/><br/>
+<img src="https://github.com/Rjjha/Fyle-Assignment---Tax-Calculator/assets/96972257/1322eb01-2f36-4c6b-a08d-64b56af69cb7" alt="Case 5" width="500"/><br/>
 
 **Case 6: If Gross Income +  Extra Income - Total Deductions is ≤ 8 lakhs then no income tax is applicable. So overall income will be Gross Income +  Extra Income.**
 
