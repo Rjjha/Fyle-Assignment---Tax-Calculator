@@ -83,10 +83,12 @@ To use the tax calculator:
 
 *2. Age ≥ 40 & < 60*
 
-![image](https://github.com/KamiyaGaikwad/Tax-Calculator/assets/79163529/90798032-3d62-40bb-ba9a-dd14ce28b2a3)
+![Untitled design (2)](https://github.com/Rjjha/Fyle-Assignment---Tax-Calculator/assets/96972257/77100ee1-55d9-4777-9cd0-f103856ba722)
+
 
 *3. Age ≥ 60*
 
-![image](https://github.com/KamiyaGaikwad/Tax-Calculator/assets/79163529/a2f0867e-4d9e-4fbc-af15-eb408b1e1b50)
+![Untitled design (3)](https://github.com/Rjjha/Fyle-Assignment---Tax-Calculator/assets/96972257/6a151c89-c1ad-4ff6-b93b-20e8a8ff9047)
+
 
 
