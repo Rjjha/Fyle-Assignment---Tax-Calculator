@@ -64,7 +64,7 @@ To use the tax calculator:
 
 **Case 4: Error icons will appear if characters are entered in the Number fields instead of a number. Error message states "Please enter numbers only."**
 
-<img src="https://github.com/KamiyaGaikwad/Tax-Calculator/assets/79163529/b4467856-a6a6-48f9-b472-e71ff0f2ccdc" alt="Case 4" width="500"/><br/>
+<img src="https://github.com/Rjjha/Fyle-Assignment---Tax-Calculator/assets/96972257/2e3e2c6c-777b-424e-a809-4d5ff02549dc" alt="Case 4" width="500"/><br/>
 
 **Case 5: Display error icons when all number fields are filled, but the age group is not selected. Error message states "This input field is mandatory."**
 
