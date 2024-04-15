@@ -72,7 +72,8 @@ To use the tax calculator:
 
 **Case 6: If Gross Income +  Extra Income - Total Deductions is ≤ 8 lakhs then no income tax is applicable. So overall income will be Gross Income +  Extra Income.**
 
-![image](https://github.com/KamiyaGaikwad/Tax-Calculator/assets/79163529/17dc19b6-1a2e-4714-9f67-7c7837c5f573)
+![Untitled design](https://github.com/Rjjha/Fyle-Assignment---Tax-Calculator/assets/96972257/f377d9e4-cfc8-4d26-a3c2-d53e6355cc8f)
+
 
 **Case 7: If Gross Income +  Extra Income - Total Deductions is > 8 lakhs then income tax is applicable based on age group. So overall income will be calculated accordingly.**<br/>
 *1. Age < 40*
