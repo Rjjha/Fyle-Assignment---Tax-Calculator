@@ -50,8 +50,7 @@ To use the tax calculator:
 ## Test Cases
 **Case 1: Tooltip is shown when hovering over the question mark icons**
 
-<img src="![pic1]("https://github.com/Rjjha/Fyle-Assignment---Tax-Calculator/assets/96972257/fc3690bb-ed41-40d6-a711-ef697bbb5527")
-" alt="Case 1" width="500"/><br/>
+<img src="https://github.com/Rjjha/Fyle-Assignment---Tax-Calculator/assets/96972257/fc3690bb-ed41-40d6-a711-ef697bbb5527" alt="Case 1" width="500"/><br/>
 
 **Case 2: Display error icons if the user clicks the submit button without entering input. Error message states "This input field is mandatory"**<br/>
 *Image 1:* Default State & *Image 2:* After clicking the submit button for empty fields
