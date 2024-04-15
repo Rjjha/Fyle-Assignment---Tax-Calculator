@@ -53,9 +53,10 @@ To use the tax calculator:
 <img src="https://github.com/Rjjha/Fyle-Assignment---Tax-Calculator/assets/96972257/fc3690bb-ed41-40d6-a711-ef697bbb5527" alt="Case 1" width="500"/><br/>
 
 **Case 2: Display error icons if the user clicks the submit button without entering input. Error message states "This input field is mandatory"**<br/>
-*Image 1:* Default State & *Image 2:* After clicking the submit button for empty fields
+*Image 1: After clicking the submit button for empty fields
 
-![image](https://github.com/KamiyaGaikwad/Tax-Calculator/assets/79163529/646deb3a-2be6-499b-8da7-1cc7e652c2bb)
+![pic2](https://github.com/Rjjha/Fyle-Assignment---Tax-Calculator/assets/96972257/6f313a26-af3a-49d6-8834-ef0fd432b2f9)
+
 
 **Case 3: Error icons will appear if a negative value is entered in the Number fields. These fields only accept 0 or positive numbers. Error message states "Please enter non-negative numbers only"**
 
