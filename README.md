@@ -60,7 +60,7 @@ To use the tax calculator:
 
 **Case 3: Error icons will appear if a negative value is entered in the Number fields. These fields only accept 0 or positive numbers. Error message states "Please enter non-negative numbers only"**
 
-<img src="https://github.com/KamiyaGaikwad/Tax-Calculator/assets/79163529/15bd46c9-f922-4518-9b76-0fef9a4518b8" alt="Case 3" width="500"/><br/>
+<img src="https://github.com/Rjjha/Fyle-Assignment---Tax-Calculator/assets/96972257/6b6b83c7-4c75-412d-b8f1-ac28212e62d0" alt="Case 3" width="500"/><br/>
 
 **Case 4: Error icons will appear if characters are entered in the Number fields instead of a number. Error message states "Please enter numbers only."**
 
